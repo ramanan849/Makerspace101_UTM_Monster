@@ -1,5 +1,5 @@
 # Makerspace101 (MS101) Course Project 
-Course Project - MS101 - Autumn 2023-24 : August 2023 to November 2023
+Course Project - MS101 - Autumn 2023-24 : Oct '23 to Nov '23
 - Professors : Prof. Joseph John (EE), Prof. Arunkumar Sridharan (ME), Prof. Krishna N. Jonnalagadda (ME) and Prof. Janani Sree Muralidharan (ME)
 - THis repo contains:
   1. [Project Report](https://github.com/ramanan849/Makerspace101_UTM_Monster/blob/47e68d466ecf8d2956a00e4f3acc10e7f7961b5e/B10_I_Project_report.pdf)
