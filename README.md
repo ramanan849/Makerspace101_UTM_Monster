@@ -17,5 +17,4 @@ Course Project - MS101 - Autumn 2023-24 : Oct '23 to Nov '23
   5. [Log File](https://github.com/ramanan849/Makerspace101_UTM_Monster/blob/47e68d466ecf8d2956a00e4f3acc10e7f7961b5e/MS%20101%20log%20file%20-%20detailed.pdf) - each team member's contribution to the project.
   6. [Video Review 1 (mid-term)](https://github.com/ramanan849/Makerspace101_UTM_Monster/blob/47e68d466ecf8d2956a00e4f3acc10e7f7961b5e/Review%201%20Video%20-%20Copy%20of%20B10%20I%20DH%20Final%20Review%201%20Handbraked.mp4)
   
-  **[Final Video Demonstration](https://youtu.be/UxlTlBXdOjU)
-**
+  **[Final Video Demonstration](https://youtu.be/UxlTlBXdOjU)**
